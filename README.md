@@ -17,4 +17,4 @@ cd ..
 ./compile-ijk.sh all
 ```
 
-<img src="./image/wechat.jpg" width="600" height="500">
+<img src="./image/qrcode.gif" width="600" height="500">
