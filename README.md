@@ -17,4 +17,4 @@ cd ..
 ./compile-ijk.sh all
 ```
 
-![](./image/wechat.jpg)
+<img src="./image/wechat.jpg" width="600" height="500">
